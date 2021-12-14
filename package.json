@@ -1,5 +1,9 @@
 {
+    "esy": {
+        "build": "dune build -p jokenpo "
+    },
     "dependencies": {
-        "ocaml": "4.12.0"
+        "ocaml": "4.12.x",
+        "@opam/dune": "*"
     }
 }

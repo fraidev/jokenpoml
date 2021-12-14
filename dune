@@ -1,0 +1,3 @@
+(executable
+  (name jokenpo) 
+    (public_name jokenpo.exe)) 
